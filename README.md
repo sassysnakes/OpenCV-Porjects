@@ -13,3 +13,5 @@ Use y and u to change the distance between the pixels checked.
 Use c to turn contrast on and off.
 
 Use v and b to adjust contrast.
+
+Use n to turn blur on and off.
